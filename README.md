@@ -20,3 +20,7 @@ Estudantes de escolas, grandes salas, hall de prédios, uma lixeira destinada a 
 *   Gregório
 *   Defante
 *   Pycharm
+
+**Links:**
+*   Miro: https://miro.com/app/board/uXjVH2GC5zs=/
+*   Tinkercad: https://www.tinkercad.com/things/bCrdzQLeoMN-lixeiraai/editel?returnTo=%2Fthings%2FbCrdzQLeoMN-bodacious-esboo-lappi&sharecode=yP_TjkIOpIOlpxVqOrL0g11Tyjib4v0xOlZqzMfy1jo
