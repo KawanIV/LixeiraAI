@@ -16,10 +16,10 @@ Estudantes de escolas, grandes salas, hall de prédios, uma lixeira destinada a 
 
 **Integrantes do Grupo:**
 *   Kawan Machado
-*   Arthur
-*   Gregório
-*   Defante
-*   Pycharm
+*   Arthur Vinicius Schuarb dos Santos
+*   Greg Lucinio Dambros
+*   Gabriel de Bastos Defante
+*   Jonatha Henrique de Souza
 
 **Links:**
 *   Miro: https://miro.com/app/board/uXjVH2GC5zs=/
